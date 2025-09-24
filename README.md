@@ -152,23 +152,6 @@
       transform: scale(1.1);
     }
 
-    /* Portfolio */
-    .portfolio-container {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-
-    .portfolio-card {
-      background: #fff;
-      border-radius: 10px;
-      overflow: hidden;
-      width: 250px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-      transition: transform 0.3s;
-    }
-
     /* Contact */
     form {
       max-width: 400px;
